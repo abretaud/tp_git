@@ -1,2 +1,5 @@
-# tp_git
-A temp repo
+# TP Git
+
+Git ses mon logicielle préférer.
+
+Quand panse tu Stèphany ?

@@ -1,5 +1,10 @@
 # TP Git
 
-Git ses mon logicielle préférer.
+Git c'est mon logiciel préféré !!!
 
-Quand panse tu Stèphany ?
+Qu'en penses tu Anthony ?
+
+Je suis d'accord
+Mais tu es sûre quand même Stéphanie ?
+
+OUIIIIIIIII 
